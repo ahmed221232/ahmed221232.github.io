@@ -1,5 +1,5 @@
 ---
 layout: authors
-icon: fas fa-authors
+icon: fa-solid fa-users
 order: 4
 ---
