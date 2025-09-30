@@ -1,5 +1,5 @@
 ---
 layout: authors
-icon: fas fa-stream
+icon: fas fa-authors
 order: 4
 ---
