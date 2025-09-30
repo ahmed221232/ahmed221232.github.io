@@ -1,6 +1,6 @@
 ---
 layout: authors
-icon: fas-solid fa-users
+icon: fas fa-users
 order: 4
 ---
 
